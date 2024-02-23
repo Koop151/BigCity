@@ -7693,5 +7693,457 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-02-23 12:18:46 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2024-02-23 12:21:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-02-23 12:21:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-02-23 12:21:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2024-02-23 12:24:42 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2024-02-23 12:24:42 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/smart_chute": {
+    "criteria": {
+      "has_item": "2024-02-23 12:38:58 +0300"
+    },
+    "done": true
+  },
+  "create:chute": {
+    "criteria": {
+      "0": "2024-02-23 12:39:14 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_wall": {
+    "criteria": {
+      "has_cut_tuff_bricks": "2024-02-23 12:39:46 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_wall": {
+    "criteria": {
+      "has_small_tuff_bricks": "2024-02-23 12:39:46 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_stairs": {
+    "criteria": {
+      "has_cut_tuff_bricks": "2024-02-23 12:39:46 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_stairs": {
+    "criteria": {
+      "has_small_tuff_bricks": "2024-02-23 12:39:46 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_slab": {
+    "criteria": {
+      "has_small_tuff_bricks": "2024-02-23 12:39:46 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_slab": {
+    "criteria": {
+      "has_cut_tuff_bricks": "2024-02-23 12:39:46 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/super_glue": {
+    "criteria": {
+      "has_item": "2024-02-23 12:39:54 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/propeller": {
+    "criteria": {
+      "has_item": "2024-02-23 12:39:54 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/encased_fan": {
+    "criteria": {
+      "has_item": "2024-02-23 12:39:54 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/whisk": {
+    "criteria": {
+      "has_item": "2024-02-23 12:39:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-02-23 12:58:27 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-02-23 13:06:16 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/portable_fluid_interface": {
+    "criteria": {
+      "has_item": "2024-02-23 21:51:45 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/spout": {
+    "criteria": {
+      "has_item": "2024-02-23 21:51:45 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_door": {
+    "criteria": {
+      "has_item": "2024-02-23 21:51:45 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_drain": {
+    "criteria": {
+      "has_item": "2024-02-23 21:51:45 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-02-23 21:53:27 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_asurine_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-02-23 21:53:27 +0300"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/asurine_castel_brick_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-02-23 21:53:27 +0300",
+      "has_the_recipe": "2024-02-23 21:53:27 +0300"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/asurine_castel_tile_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-02-23 21:53:27 +0300"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/asurine_castel_brick_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-02-23 21:53:27 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-02-23 21:53:27 +0300"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/asurine_castel_tile_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-02-23 21:53:27 +0300",
+      "has_the_recipe": "2024-02-23 21:53:27 +0300"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/asurine_castel_tile_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-02-23 21:53:27 +0300",
+      "has_the_recipe": "2024-02-23 21:53:27 +0300"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/asurine_castel_tile_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-02-23 21:53:27 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-02-23 21:53:27 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-02-23 21:53:27 +0300"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/asurine_castel_bricks_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-02-23 21:53:27 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-02-23 21:53:27 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/asurine_pillar_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-02-23 21:53:27 +0300"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/asurine_castel_brick_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-02-23 21:53:27 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-02-23 21:53:27 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/asurine_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-02-23 21:53:27 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-02-23 21:53:27 +0300"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/asurine_castel_brick_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-02-23 21:53:27 +0300",
+      "has_the_recipe": "2024-02-23 21:53:27 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_asurine_bricks_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-02-23 21:53:27 +0300"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/asurine_castel_bricks_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-02-23 21:53:27 +0300",
+      "has_the_recipe": "2024-02-23 21:53:27 +0300"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/asurine_castel_brick_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-02-23 21:53:27 +0300",
+      "has_the_recipe": "2024-02-23 21:53:27 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_brick_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-02-23 21:53:27 +0300"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/asurine_castel_tile_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-02-23 21:53:27 +0300",
+      "has_the_recipe": "2024-02-23 21:53:27 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_asurine_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-02-23 21:53:27 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_bricks_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-02-23 21:53:27 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_asurine_brick_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-02-23 21:53:27 +0300"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/asurine_castel_tiles_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-02-23 21:53:27 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_asurine_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-02-23 21:53:27 +0300"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/asurine_castel_tiles_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-02-23 21:53:27 +0300",
+      "has_the_recipe": "2024-02-23 21:53:27 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_asurine_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-02-23 21:53:27 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-02-23 21:53:27 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_asurine_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-02-23 21:53:27 +0300"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/asurine_castel_tile_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-02-23 21:53:27 +0300"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/asurine_castel_brick_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-02-23 21:53:27 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-02-23 21:57:14 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-02-23 21:57:14 +0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/sandstone_corner_trim": {
+    "criteria": {
+      "has_sandstone_corner_trim": "2024-02-23 21:57:14 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2024-02-23 21:57:14 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-02-23 21:57:14 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-02-23 21:57:14 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-02-23 21:57:14 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-02-23 21:57:14 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2024-02-23 21:57:14 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-02-23 21:57:14 +0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/sandstone_pillar_trim": {
+    "criteria": {
+      "has_sandstone_pillar_trim": "2024-02-23 21:57:14 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-02-23 21:57:14 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2024-02-23 21:57:14 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2024-02-23 22:06:32 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2024-02-23 22:06:32 +0300"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
