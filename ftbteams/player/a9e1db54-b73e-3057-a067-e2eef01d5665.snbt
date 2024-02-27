@@ -2,9 +2,7 @@
 	id: "a9e1db54-b73e-3057-a067-e2eef01d5665"
 	type: "player"
 	player_name: "set201715"
-	ranks: {
-		a9e1db54-b73e-3057-a067-e2eef01d5665: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "set201715"
 		"ftbteams:description": ""

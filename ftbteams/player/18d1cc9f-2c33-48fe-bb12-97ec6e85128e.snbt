@@ -2,9 +2,7 @@
 	id: "18d1cc9f-2c33-48fe-bb12-97ec6e85128e"
 	type: "player"
 	player_name: "KoT_KYCb"
-	ranks: {
-		18d1cc9f-2c33-48fe-bb12-97ec6e85128e: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "KoT_KYCb"
 		"ftbteams:description": ""
