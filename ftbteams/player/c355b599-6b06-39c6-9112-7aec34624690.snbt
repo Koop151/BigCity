@@ -2,9 +2,7 @@
 	id: "c355b599-6b06-39c6-9112-7aec34624690"
 	type: "player"
 	player_name: "LeFrut"
-	ranks: {
-		c355b599-6b06-39c6-9112-7aec34624690: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "LeFrut"
 		"ftbteams:description": ""

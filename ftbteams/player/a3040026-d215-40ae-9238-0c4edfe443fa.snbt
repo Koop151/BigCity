@@ -2,9 +2,7 @@
 	id: "a3040026-d215-40ae-9238-0c4edfe443fa"
 	type: "player"
 	player_name: "Dikoad"
-	ranks: {
-		a3040026-d215-40ae-9238-0c4edfe443fa: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Dikoad"
 		"ftbteams:description": ""
